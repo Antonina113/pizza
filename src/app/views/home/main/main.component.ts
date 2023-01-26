@@ -56,7 +56,7 @@ private popupComponent!: PopupComponent
  /*   this.modalService.open(this.popup, {});*/
 /*    const modalRef = this.modalService.open(PopupComponent);
     modalRef.componentInstance.data = 'Main Component';*/
-    this.popupComponent.open();
+   /* this.popupComponent.open();*/
   }
 
   ngOnInit() {
